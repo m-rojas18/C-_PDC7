@@ -12,3 +12,11 @@
 ---
 ## :dart: Objetivos
 ![](Imagenes/c++.png)
+
+Punto de Control #07 en C++ mostrara: 
+
+1. La implementación de herencia en C++
+
+2. La implementación de polimorfismo en C++
+
+3. Utilizacion de templates en C++
