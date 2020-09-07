@@ -102,3 +102,10 @@ Punto de Control #07 en C++ mostrara:
 
 ## Descripción:
 ->
+## :computer: Código
+- :blue_book: [Punto de Control #07] 
+#### Herramientas:
+- :package: [Visual Studio Code](https://code.visualstudio.com/)
+- :camera: [Polacode-2020 v0.5.2](https://github.com/jeff-hykin/polacode)
+- :notebook: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- :smile: [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
