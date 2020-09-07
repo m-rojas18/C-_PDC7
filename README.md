@@ -20,3 +20,6 @@ Punto de Control #07 en C++ mostrara:
 2. La implementación de polimorfismo en C++
 
 3. Utilizacion de templates en C++
+
+## :large_blue_circle: 1) Herencia.cpp
+
