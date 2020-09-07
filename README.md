@@ -22,4 +22,4 @@ Punto de Control #07 en C++ mostrara:
 3. Utilizacion de templates en C++
 
 ## :large_blue_circle: 1) Herencia.cpp
-
+![](Imagenes/Herencia_cpp.png)
