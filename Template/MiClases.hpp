@@ -20,5 +20,4 @@ void MiClases(){
         cout << mcPila.arriba() << ' ';
         mcPila.extraer();
     }
-
 }
