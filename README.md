@@ -101,9 +101,27 @@ Punto de Control #07 en C++ mostrara:
 ![](Imagenes/Salida_Templates.png)
 
 ## Descripción:
-->
+-> El programa imprime un recorrido haciendo uso de templates para identificar distintos tipos de objetos;
+
+## :black_large_square: 4) Asignacion --main.cpp
+![](Imagenes/Asignacion_main.png)
+
+## :large_blue_circle: Tipo.hpp
+![](Imagenes/Asignacion_Tipo.png)
+
+## :large_blue_circle: Pila.hpp
+![](Imagenes/Asignacion_Pila.png)
+
+## :large_blue_circle: MiClase.hpp
+![](Imagenes/Asignacion_MiClase.png)
+
+## :red_circle: Salida:
+![](Imagenes/Salida_Asignacion.png);
+
+## Descripción:
+-> Misma impresion y acciones que el programa "Templates.cpp" pero unificado por la clase "Tipo.hpp" y el metodo "Tipo()" en dicha clase.
 ## :computer: Código
-- :blue_book: [Punto de Control #07] 
+- :blue_book: [Punto de Control #07] (https://github.com/m-rojas18/C_PDC7.git)
 #### Herramientas:
 - :package: [Visual Studio Code](https://code.visualstudio.com/)
 - :camera: [Polacode-2020 v0.5.2](https://github.com/jeff-hykin/polacode)
