@@ -97,3 +97,8 @@ Punto de Control #07 en C++ mostrara:
 ## :large_blue_circle: Pila.hpp
 ![](Imagenes/Pila_hpp.png)
 
+## :red_circle: Salida:
+![](Imagenes/Salida_Templates.png)
+
+## Descripción:
+->
