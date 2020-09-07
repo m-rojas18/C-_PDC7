@@ -21,5 +21,29 @@ Punto de Control #07 en C++ mostrara:
 
 3. Utilizacion de templates en C++
 
-## :large_blue_circle: 1) Herencia.cpp
+## :black_large_square: 1) Herencia.cpp
 ![](Imagenes/Herencia_cpp.png)
+
+## :large_blue_circle: Persona.hpp
+![](Imagenes/Persona_hpp_Herencia.png)
+
+## :large_blue_diamond: Persona.cpp
+![](Imagenes/Persona_cpp_Herencia.png)
+
+## :large_blue_circle: Maestro.hpp
+![](Imagenes/Persona_hpp_Herencia.png)
+
+## :large_blue_diamond: Maestro.cpp
+![](Imagenes/Persona_cpp_Herencia.png)
+
+## :large_blue_circle: Alumno.hpp
+![](Imagenes/Alumno_hpp_Herencia.png)
+
+## :large_blue_diamond: Alumno.cpp
+![](Imagenes/Alumno_cpp_Herencia.png)
+
+## :red_circle: Salida:
+![](Imagenes/Salida_Herencia_cpp.png)
+
+## :white_medium_square: Descripción:
+-> El programa utiliza herencia para obtener distintor valores de las clases por medio de metodos y utiliza una comparacion en un enum para imprimir lo que busca.
