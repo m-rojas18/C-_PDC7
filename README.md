@@ -76,4 +76,24 @@ Punto de Control #07 en C++ mostrara:
 ## :large_orange_diamond: Descripción:
 -> El programa mediante el uso de herencia y metodos polimorficos consigue valores que tienen todos los objetos que en el caso del programa seria un valor de ingresos y un formato de impresion.
 
-## :black_large_square: 3) Template.cpp
+## :black_large_square: 3) Templates.cpp
+![](Imagenes/Templates.png)
+
+## :large_blue_circle: Cadenas.hpp
+![](Imagenes/Cadenas_hpp.png)
+
+## :large_blue_circle: Doubles.hpp
+![](Imagenes/Doubles_hpp.png)
+
+## :large_blue_circle: Enteros.hpp
+![](Imagenes/Enteros_hpp.png)
+
+## :large_blue_circle: MiClase.hpp
+![](Imagenes/MiClase_hpp.png)
+
+## :large_blue_circle: MiClases.hpp
+![](Imagenes/MiClases_hpp.png)
+
+## :large_blue_circle: Pila.hpp
+![](Imagenes/Pila_hpp.png)
+
