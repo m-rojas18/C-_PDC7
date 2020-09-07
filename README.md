@@ -45,7 +45,7 @@ Punto de Control #07 en C++ mostrara:
 ## :red_circle: Salida:
 ![](Imagenes/Salida_Herencia_cpp.png)
 
-## :white_medium_square: Descripción:
+## :large_orange_diamond: Descripción:
 -> El programa utiliza herencia para obtener distintor valores de las clases por medio de metodos y utiliza una comparacion en un enum para imprimir lo que busca.
 
 ## :black_large_square: 2) Polimorfismo.cpp
@@ -73,7 +73,7 @@ Punto de Control #07 en C++ mostrara:
 ![](Imagenes/Salida_Polimorfismo.png)
 
 
-## :white_medium_square: Descripción:
+## :large_orange_diamond: Descripción:
 -> El programa mediante el uso de herencia y metodos polimorficos consigue valores que tienen todos los objetos que en el caso del programa seria un valor de ingresos y un formato de impresion.
 
 ## :black_large_square: 3) Template.cpp
