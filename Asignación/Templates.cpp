@@ -1,7 +1,3 @@
-/*#include "Doubles.hpp"
-#include "Enteros.hpp"
-#include "Cadenas.hpp"
-#include "MiClases.hpp"*/
 #include "Tipo.hpp"
 
 int main(){
